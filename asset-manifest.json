@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/indras_net/static/css/main.db17fb3d.chunk.css",
-    "main.js": "/indras_net/static/js/main.dbf5d094.chunk.js",
-    "main.js.map": "/indras_net/static/js/main.dbf5d094.chunk.js.map",
+    "main.js": "/indras_net/static/js/main.96cd64cf.chunk.js",
+    "main.js.map": "/indras_net/static/js/main.96cd64cf.chunk.js.map",
     "runtime-main.js": "/indras_net/static/js/runtime-main.9f0c9c69.js",
     "runtime-main.js.map": "/indras_net/static/js/runtime-main.9f0c9c69.js.map",
     "static/css/2.618675c8.chunk.css": "/indras_net/static/css/2.618675c8.chunk.css",
     "static/js/2.3ee719d0.chunk.js": "/indras_net/static/js/2.3ee719d0.chunk.js",
     "static/js/2.3ee719d0.chunk.js.map": "/indras_net/static/js/2.3ee719d0.chunk.js.map",
     "index.html": "/indras_net/index.html",
-    "precache-manifest.328fe30f0a37ff8512fd62a8f1e0948c.js": "/indras_net/precache-manifest.328fe30f0a37ff8512fd62a8f1e0948c.js",
+    "precache-manifest.475d77cd31a08309dedd2999282e3810.js": "/indras_net/precache-manifest.475d77cd31a08309dedd2999282e3810.js",
     "service-worker.js": "/indras_net/service-worker.js",
     "static/css/2.618675c8.chunk.css.map": "/indras_net/static/css/2.618675c8.chunk.css.map",
     "static/css/main.db17fb3d.chunk.css.map": "/indras_net/static/css/main.db17fb3d.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.618675c8.chunk.css",
     "static/js/2.3ee719d0.chunk.js",
     "static/css/main.db17fb3d.chunk.css",
-    "static/js/main.dbf5d094.chunk.js"
+    "static/js/main.96cd64cf.chunk.js"
   ]
 }
